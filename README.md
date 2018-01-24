@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Welcome to My Pages
 
-You can use the [editor on GitHub](https://github.com/finafatihah/LDR/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Please Enjoy It
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Definition
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+A long-distance relationship (LDR) (or long-distance romantic relationship (LDRR) is an intimate relationship between partners who are geographically isolated from one another. Partners in LDRs face geographic separation and lack of face-to-face contact. LDRs are particularly prevalent among college students- constituting 25% to 50% of all LDRs.[1] Even though scholars have reported a significant number of LDRs in undergraduate populations, long-distance relationships continue to be an ‘understudied' phenomenon.
 
-```markdown
-Syntax highlighted code block
+### LDRs with friends and family
 
-# Header 1
-## Header 2
-### Header 3
+Not all long-distance relationships are romantic. When individuals go away to school, their relationships with family and friends also become long-distance. Pew Internet (2004) asserts that 79% of adult respondents from the United States reported using the Internet for communication with family and friends. Also, Pew Internet (2002a) states that because of new technologies, college students will have greater social ties with their friends than their family members. Therefore, examining email among college students helps explore how the Internet is affecting college students emotionally and socially.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### Contact Me At
 
-**Bold** and _Italic_ and `Code` text
+delfina_fd
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/finafatihah/LDR/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
